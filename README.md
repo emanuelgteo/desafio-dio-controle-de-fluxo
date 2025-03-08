@@ -1,4 +1,4 @@
-# Desafio DIO - Conta Bancária
+# Desafio DIO - Contador
 
 Projeto proposto pelo Bootcamp Bradesco - Java Cloud Native da DIO, que tem o objetivo de criar um contador de acordo com os dados fornecidos pelo usuário.
 
@@ -8,5 +8,5 @@ A classe possui as seguintes funcionalidades:
 - Utiliza os dados fornecidos para calcular a quantidade de números que será impressa;
 - Imprime os números na quantidade calculada a partir do 1.
 
-## Exemplos de funcionamento:
+## Exemplo de funcionamento:
 <img src="img/exemplo1.png">
